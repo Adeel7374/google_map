@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81350752673",
+    "project_id": "maps-affa2",
+    "storage_bucket": "maps-affa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81350752673:android:5c11f06ca02b54baacb3e0",
+        "android_client_info": {
+          "package_name": "com.adeeldevs.google_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81350752673-jrlqfucordlju8akmab1vl6bs307srm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJsVplZMuUacuh21EJ4sV59_3hWhcc7E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81350752673-jrlqfucordlju8akmab1vl6bs307srm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
